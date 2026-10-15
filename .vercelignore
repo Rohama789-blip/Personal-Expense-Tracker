@@ -1,0 +1,7 @@
+.env
+**/.env
+firebase-key.json
+**/firebase-key.json
+venv/
+**/venv/
+.git/
